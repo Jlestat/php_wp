@@ -9,9 +9,8 @@
 </head>
 <body>
 <?php
-
-echo 'Hello World'
-
+$name = 'john';
+echo "My name $name";
 ?>
 </body>
 </html>
