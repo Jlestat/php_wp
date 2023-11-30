@@ -1,5 +1,13 @@
 <?php
-const PI = 3.14;
-$r = 5;
-print 2 * PI * $r;
+
+$n = -12;
+if ($n < 0){
+    echo "$n меньше нуля";
+}
+elseif ($n > 0){
+    echo "$n больше нуля";
+}
+else{
+    echo "ровна нулю";
+}
 ?>
