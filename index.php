@@ -11,7 +11,7 @@
 //}
 ?>
 <?php
-$day = 1;
+$day = 11;
 switch ($day) {
     case 1:
         echo 'Понедельник';
