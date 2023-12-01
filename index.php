@@ -11,8 +11,8 @@
 //}
 ?>
 <?php
-$day = readline('day = ');
-switch($day){
+$day = 1;
+switch ($day) {
     case 1:
         echo 'Понедельник';
         break;
@@ -33,6 +33,9 @@ switch($day){
         break;
     case 7:
         echo 'Воскресение';
+        break;
+    default:
+        echo 'Значени не то';
         break;
 }
 ?>
