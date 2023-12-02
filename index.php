@@ -11,31 +11,39 @@
 //}
 ?>
 <?php
-$day = 11;
-switch ($day) {
-    case 1:
-        echo 'Понедельник';
-        break;
-    case 2:
-        echo 'Вторник';
-        break;
-    case 3:
-        echo 'Среда';
-        break;
-    case 4:
-        echo 'Четверг';
-        break;
-    case 5:
-        echo 'Пятница';
-        break;
-    case 6:
-        echo 'Суббота';
-        break;
-    case 7:
-        echo 'Воскресение';
-        break;
-    default:
-        echo 'Значени не то';
-        break;
-}
+//$day = 11;
+//switch ($day) {
+//    case 1:
+//        echo 'Понедельник';
+//        break;
+//    case 2:
+//        echo 'Вторник';
+//        break;
+//    case 3:
+//        echo 'Среда';
+//        break;
+//    case 4:
+//        echo 'Четверг';
+//        break;
+//    case 5:
+//        echo 'Пятница';
+//        break;
+//    case 6:
+//        echo 'Суббота';
+//        break;
+//    case 7:
+//        echo 'Воскресение';
+//        break;
+//    default:
+//        echo 'Значение не то';
+//        break;
+//}
+?>
+<?php
+
+?>
+<?php
+//for ($x = 0; $x <= 10; $x ++){
+//    echo "$x <br>";
+//}
 ?>
