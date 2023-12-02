@@ -40,7 +40,10 @@
 //}
 ?>
 <?php
-
+$a = ['red', 'blue', 'yellow'];
+foreach ($a as $i){
+    echo "$i ";
+}
 ?>
 <?php
 //for ($x = 0; $x <= 10; $x ++){
